@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Auricmondal
 - 👀 I’m interested in coding, editing and graphic designing. 
 - 🌱 I’m currently learning web development.
-- 📫 How to reach me :via email: @auricmondal@gmail.com
+- 📫 How to reach me :via email: @main.auricmondal@gmail.com
 
 <!---
 Auricmondal/Auricmondal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
